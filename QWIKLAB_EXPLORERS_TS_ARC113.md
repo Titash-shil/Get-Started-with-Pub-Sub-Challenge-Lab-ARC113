@@ -2,6 +2,51 @@
 
 # # Like, comment, share & Don't forget to subscribe [Qwiklab_Explorers_ts](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN) 👍😄🤝
 
+
+- ## check you lab instruction & follow the 3-Task, based upon that choose your form id & type that form id in cloudshell
+
+- ## for form id-4, you have to perform lab mannually so follow steps from video or lab instruction!
+
+---
+
+- FORM-1
+
+TASK-1] Set up Cloud Pub/Sub 
+
+TASK-2] Create a Cloud Scheduler job
+
+TASK-3] Verify the results in Cloud Pub/Sub
+
+
+- FORM-2
+
+TASK-1] Create Pub/Sub schema 
+
+TASK-2] Create Pub/Sub topic using schema
+
+TASK-3] Create a trigger cloud function with Pub/Sub topic
+
+
+- FORM-3 
+
+TASK-1] Create a Pub/Sub Snapshot for Pub/Sub topic 
+
+TASK-2] Create Pub/Sub Lite Reservations
+
+TASK-3] Create Cloud Pub/Sub Lite Topic and Subscription.
+
+
+- FORM-4 
+
+TASK-1] Publish a message to the topic 
+
+TASK-2] View the message
+
+TASK-3] Create a Pub/Sub Snapshot for Pub/Sub topic
+
+--- 
+
+
 ### Run the following Commands in CloudShell
 
 ```
@@ -139,49 +184,6 @@ case $form_number in
     *) echo "Invalid form number. Please enter 1, 2, or 3." ;;
 esac
 ```
-
-- ## check you lab instruction & follow the 3-Task, based upon that choose your form id & type that form id in cloudshell
-
-- ## for form id-4, you have to perform lab mannually so follow steps from video or lab instruction!
-
----
-
-- FORM-1
-
-TASK-1] Set up Cloud Pub/Sub 
-
-TASK-2] Create a Cloud Scheduler job
-
-TASK-3] Verify the results in Cloud Pub/Sub
-
-
-- FORM-2
-
-TASK-1] Create Pub/Sub schema 
-
-TASK-2] Create Pub/Sub topic using schema
-
-TASK-3] Create a trigger cloud function with Pub/Sub topic
-
-
-- FORM-3 
-
-TASK-1] Create a Pub/Sub Snapshot for Pub/Sub topic 
-
-TASK-2] Create Pub/Sub Lite Reservations
-
-TASK-3] Create Cloud Pub/Sub Lite Topic and Subscription.
-
-
-- FORM-4 
-
-TASK-1] Publish a message to the topic 
-
-TASK-2] View the message
-
-TASK-3] Create a Pub/Sub Snapshot for Pub/Sub topic
-
---- 
 
 
 # Congratulations ..!!🎉  You completed the lab shortly..😃💯
